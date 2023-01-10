@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="701520cb-0deb-4c63-9df6-8ae6fb468ac3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FormDetails.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FormDetails.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProfileList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfileList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/calendar/calendar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/calendar/calendar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/home/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/home/home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/reports/reportContainer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/reports/reportProduct.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/team/teamContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/team/teamContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/report/reportPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/report/reportPage.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2IPN3fzWgA6l6wh0VIRxl9mDGL6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="701520cb-0deb-4c63-9df6-8ae6fb468ac3" name="Changes" comment="" />
+      <created>1670079072059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670079072059</updated>
+    </task>
+    <servers />
+  </component>
+</project>
